@@ -51,7 +51,8 @@ def calculate_flee_odds(rate, mod=6):
     
     '''
     rate = get_modified_rate(rate, mod)
-    return min(1, rate/255)
+    odds = (rate + 1)/255
+    return min(1, odds)
 
 
 def odds_of_catch(p_turn, p_catch, p_flee):
