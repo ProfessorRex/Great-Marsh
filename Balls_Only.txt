@@ -1,230 +1,230 @@
 POKEMON: ARBOK
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 51.13%
+Odds of success with balls only: 50.71%
 
 POKEMON: GOLDUCK
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 75
 Odds of capture per ball: 16.78%
-Odds of success with balls only: 46.14%
+Odds of success with balls only: 45.73%
 
 POKEMON: GYRADOS
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 30.26%
+Odds of success with balls only: 29.92%
 
 POKEMON: NOCTOWL
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 51.13%
+Odds of success with balls only: 50.71%
 
 POKEMON: MARILL
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 74.67%
+Odds of success with balls only: 74.36%
 
 POKEMON: QUAGSIRE
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 51.13%
+Odds of success with balls only: 50.71%
 
 POKEMON: ROSELIA
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 150
 Odds of capture per ball: 33.69%
-Odds of success with balls only: 68.35%
+Odds of success with balls only: 67.99%
 
 POKEMON: TROPIUS
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 200
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 74.67%
+Odds of success with balls only: 74.36%
 
 POKEMON: STARAVIA
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 120
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 62.27%
+Odds of success with balls only: 61.88%
 
 POKEMON: BIBAREL
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 127
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 62.27%
+Odds of success with balls only: 61.88%
 
 POKEMON: DRAPION
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 30.26%
+Odds of success with balls only: 29.92%
 
 POKEMON: CARNIVINE
 Flee rate: 60
-Odds to flee per turn: 23.53%
+Odds to flee per turn: 23.92%
 Catch rate: 200
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 74.67%
+Odds of success with balls only: 74.36%
 
 POKEMON: PSYDUCK
 Flee rate: 90
-Odds to flee per turn: 35.29%
+Odds to flee per turn: 35.69%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 66.28%
+Odds of success with balls only: 66.03%
 
 POKEMON: TANGELA
 Flee rate: 90
-Odds to flee per turn: 35.29%
+Odds to flee per turn: 35.69%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 22.44%
+Odds of success with balls only: 22.25%
 
 POKEMON: MAGIKARP
 Flee rate: 90
-Odds to flee per turn: 35.29%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 74.13%
+Odds of success with balls only: 73.92%
 
 POKEMON: HOOTHOOT
 Flee rate: 90
-Odds to flee per turn: 35.29%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 74.13%
+Odds of success with balls only: 73.92%
 
 POKEMON: CARVANHA
 Flee rate: 90
-Odds to flee per turn: 35.29%
+Odds to flee per turn: 35.69%
 Catch rate: 225
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 74.13%
+Odds of success with balls only: 73.92%
 
 POKEMON: STARLY
 Flee rate: 90
-Odds to flee per turn: 35.29%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 74.13%
+Odds of success with balls only: 73.92%
 
 POKEMON: BIDOOF
 Flee rate: 90
-Odds to flee per turn: 35.29%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 74.13%
+Odds of success with balls only: 73.92%
 
 POKEMON: PARAS
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 59.58%
+Odds of success with balls only: 59.38%
 
 POKEMON: EXEGGCUTE
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 34.34%
+Odds of success with balls only: 34.15%
 
 POKEMON: YANMA
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 75
 Odds of capture per ball: 16.78%
-Odds of success with balls only: 29.99%
+Odds of success with balls only: 29.81%
 
 POKEMON: WOOPER
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.25%
+Odds of success with balls only: 68.07%
 
 POKEMON: SHROOMISH
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.25%
+Odds of success with balls only: 68.07%
 
 POKEMON: AZURILL
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 150
 Odds of capture per ball: 33.69%
-Odds of success with balls only: 51.92%
+Odds of success with balls only: 51.71%
 
 POKEMON: GULPIN
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 225
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.25%
+Odds of success with balls only: 68.07%
 
 POKEMON: BARBOACH
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 59.58%
+Odds of success with balls only: 59.38%
 
 POKEMON: KEKLEON
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 200
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 59.58%
+Odds of success with balls only: 59.38%
 
 POKEMON: BUDEW
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.25%
+Odds of success with balls only: 68.07%
 
 POKEMON: SKORUPI
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 120
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 45.21%
+Odds of success with balls only: 45.01%
 
 POKEMON: TOXICROAK
 Flee rate: 120
-Odds to flee per turn: 47.06%
+Odds to flee per turn: 47.45%
 Catch rate: 75
 Odds of capture per ball: 16.78%
-Odds of success with balls only: 29.99%
+Odds of success with balls only: 29.81%
 
 POKEMON: KANGASKHAN
 Flee rate: 150
-Odds to flee per turn: 58.82%
+Odds to flee per turn: 59.22%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 14.79%
+Odds of success with balls only: 14.71%
 
 POKEMON: CROAGUNK
 Flee rate: 150
-Odds to flee per turn: 58.82%
+Odds to flee per turn: 59.22%
 Catch rate: 140
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 39.77%
+Odds of success with balls only: 39.61%
