@@ -7,11 +7,11 @@ def get_fc(name):
     '''
     fc = [(60, 90), (60, 75), (60, 45), (60, 90), (60, 190), (60, 90), (60, 150), (60, 200), (60, 120), (60, 127), (60, 45), (60, 200),
           (90, 190), (90, 45), (90, 255), (90, 255), (90, 225), (90, 255), (90, 255), (120, 190), (120, 90), (120, 75), (120, 255),
-          (120, 255), (120, 150), (120, 225), (120, 190), (120, 200), (120, 255), (120, 120), (120, 75), (150, 45), (150, 140)]
+          (120, 255), (120, 150), (120, 225), (120, 190), (120, 200), (120, 255), (120, 120), (120, 75), (150, 45), (150, 140), (0, 75)]
     names = ['ARBOK', 'GOLDUCK', 'GYRADOS', 'NOCTOWL', 'MARILL', 'QUAGSIRE', 'ROSELIA', 'TROPIUS', 'STARAVIA', 'BIBAREL', 'DRAPION',
              'CARNIVINE', 'PSYDUCK', 'TANGELA', 'MAGIKARP', 'HOOTHOOT', 'CARVANHA', 'STARLY', 'BIDOOF', 'PARAS', 'EXEGGCUTE',
              'YANMA', 'WOOPER', 'SHROOMISH', 'AZURILL', 'GULPIN', 'BARBOACH', 'KEKLEON', 'BUDEW', 'SKORUPI', 'TOXICROAK',
-             'KANGASKHAN', 'CROAGUNK']
+             'KANGASKHAN', 'CROAGUNK', 'WHISCASH']
     name = name.upper()
     num = names.index(name)
     return fc[num]
@@ -209,7 +209,7 @@ def all_pretty(n=3):
     names = ['ARBOK', 'GOLDUCK', 'GYRADOS', 'NOCTOWL', 'MARILL', 'QUAGSIRE', 'ROSELIA', 'TROPIUS', 'STARAVIA', 'BIBAREL', 'DRAPION',
              'CARNIVINE', 'PSYDUCK', 'TANGELA', 'MAGIKARP', 'HOOTHOOT', 'CARVANHA', 'STARLY', 'BIDOOF', 'PARAS', 'EXEGGCUTE',
              'YANMA', 'WOOPER', 'SHROOMISH', 'AZURILL', 'GULPIN', 'BARBOACH', 'KEKLEON', 'BUDEW', 'SKORUPI', 'TOXICROAK',
-             'KANGASKHAN', 'CROAGUNK']
+             'KANGASKHAN', 'CROAGUNK', 'WHISCASH']
     for name in names:
         pretty_output(name,n)
         print()

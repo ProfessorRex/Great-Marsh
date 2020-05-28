@@ -294,3 +294,12 @@ Odds of capture per ball: 27.97%
 Odds of success with balls only: 39.61%
 Odds of success starting with one bait: 22.14%
 Odds of success starting with one mud: 16.09%
+
+POKEMON: WHISCASH
+Flee rate: 0
+Odds to flee per turn: 0.39%
+Catch rate: 75
+Odds of capture per ball: 16.78%
+Odds of success with balls only: 97.74%
+Odds of success starting with one bait: 98.32%
+Odds of success starting with one mud: 93.91%

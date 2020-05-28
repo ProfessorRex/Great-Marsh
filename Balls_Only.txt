@@ -228,3 +228,10 @@ Odds to flee per turn: 59.22%
 Catch rate: 140
 Odds of capture per ball: 27.97%
 Odds of success with balls only: 39.61%
+
+POKEMON: WHISCASH
+Flee rate: 0
+Odds to flee per turn: 0.39%
+Catch rate: 75
+Odds of capture per ball: 16.78%
+Odds of success with balls only: 97.74%
