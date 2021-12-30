@@ -16,7 +16,7 @@ Odds of success with balls only: 45.73%
 Odds of success starting with one bait: 35.86%
 Odds of success starting with one mud: 33.4%
 
-POKEMON: GYRADOS
+POKEMON: GYARADOS
 Flee rate: 60
 Odds to flee per turn: 23.92%
 Catch rate: 45
