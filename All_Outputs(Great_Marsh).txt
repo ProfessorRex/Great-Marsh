@@ -3,303 +3,303 @@ Flee rate: 0
 Odds to flee per turn: 0.39%
 Catch rate: 75
 Odds of capture per ball: 16.78%
-Odds of success with balls only: 97.75%
+Odds of success with balls only: 97.74%
 Odds of success starting with one bait: 98.32%
-Odds of success starting with one mud: 93.92%
+Odds of success starting with one mud: 93.91%
 
 POKEMON: ARBOK
 Flee rate: 60
-Odds to flee per turn: 23.83%
-Catch rate: 90A
+Odds to flee per turn: 23.92%
+Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 50.81%
-Odds of success starting with one bait: 40.51%
-Odds of success starting with one mud: 36.67%
+Odds of success with balls only: 50.71%
+Odds of success starting with one bait: 40.39%
+Odds of success starting with one mud: 36.55%
 
 POKEMON: GOLDUCK
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 75
 Odds of capture per ball: 16.78%
-Odds of success with balls only: 45.83%
-Odds of success starting with one bait: 35.98%
-Odds of success starting with one mud: 33.51%
+Odds of success with balls only: 45.73%
+Odds of success starting with one bait: 35.86%
+Odds of success starting with one mud: 33.4%
 
 POKEMON: GYARADOS
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 30.0%
-Odds of success starting with one bait: 25.09%
-Odds of success starting with one mud: 23.1%
+Odds of success with balls only: 29.92%
+Odds of success starting with one bait: 25.0%
+Odds of success starting with one mud: 23.01%
 
 POKEMON: NOCTOWL
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 50.81%
-Odds of success starting with one bait: 40.51%
-Odds of success starting with one mud: 36.67%
+Odds of success with balls only: 50.71%
+Odds of success starting with one bait: 40.39%
+Odds of success starting with one mud: 36.55%
 
 POKEMON: MARILL
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 74.43%
-Odds of success starting with one bait: 63.13%
-Odds of success starting with one mud: 54.73%
+Odds of success with balls only: 74.36%
+Odds of success starting with one bait: 63.01%
+Odds of success starting with one mud: 54.6%
 
 POKEMON: QUAGSIRE
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 50.81%
-Odds of success starting with one bait: 40.51%
-Odds of success starting with one mud: 36.67%
+Odds of success with balls only: 50.71%
+Odds of success starting with one bait: 40.39%
+Odds of success starting with one mud: 36.55%
 
 POKEMON: ROSELIA
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 150
 Odds of capture per ball: 33.69%
-Odds of success with balls only: 68.08%
-Odds of success starting with one bait: 56.89%
-Odds of success starting with one mud: 47.32%
+Odds of success with balls only: 67.99%
+Odds of success starting with one bait: 56.77%
+Odds of success starting with one mud: 47.2%
 
 POKEMON: TROPIUS
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 200
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 74.43%
-Odds of success starting with one bait: 63.13%
-Odds of success starting with one mud: 54.73%
+Odds of success with balls only: 74.36%
+Odds of success starting with one bait: 63.01%
+Odds of success starting with one mud: 54.6%
 
 POKEMON: STARAVIA
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 120
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 61.97%
-Odds of success starting with one bait: 51.0%
-Odds of success starting with one mud: 43.59%
+Odds of success with balls only: 61.88%
+Odds of success starting with one bait: 50.87%
+Odds of success starting with one mud: 43.47%
 
 POKEMON: BIBAREL
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 127
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 61.97%
-Odds of success starting with one bait: 51.0%
-Odds of success starting with one mud: 43.59%
+Odds of success with balls only: 61.88%
+Odds of success starting with one bait: 50.87%
+Odds of success starting with one mud: 43.47%
 
 POKEMON: DRAPION
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 30.0%
-Odds of success starting with one bait: 25.09%
-Odds of success starting with one mud: 23.1%
+Odds of success with balls only: 29.92%
+Odds of success starting with one bait: 25.0%
+Odds of success starting with one mud: 23.01%
 
 POKEMON: CARNIVINE
 Flee rate: 60
-Odds to flee per turn: 23.83%
+Odds to flee per turn: 23.92%
 Catch rate: 200
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 74.43%
-Odds of success starting with one bait: 63.13%
-Odds of success starting with one mud: 54.73%
+Odds of success with balls only: 74.36%
+Odds of success starting with one bait: 63.01%
+Odds of success starting with one mud: 54.6%
 
 POKEMON: PSYDUCK
 Flee rate: 90
-Odds to flee per turn: 35.55%
+Odds to flee per turn: 35.69%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 66.12%
-Odds of success starting with one bait: 49.26%
-Odds of success starting with one mud: 40.75%
+Odds of success with balls only: 66.03%
+Odds of success starting with one bait: 49.11%
+Odds of success starting with one mud: 40.6%
 
 POKEMON: TANGELA
 Flee rate: 90
-Odds to flee per turn: 35.55%
+Odds to flee per turn: 35.69%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 22.32%
-Odds of success starting with one bait: 15.96%
-Odds of success starting with one mud: 14.61%
+Odds of success with balls only: 22.25%
+Odds of success starting with one bait: 15.88%
+Odds of success starting with one mud: 14.54%
 
 POKEMON: MAGIKARP
 Flee rate: 90
-Odds to flee per turn: 35.55%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 73.99%
-Odds of success starting with one bait: 56.5%
-Odds of success starting with one mud: 44.71%
+Odds of success with balls only: 73.92%
+Odds of success starting with one bait: 56.35%
+Odds of success starting with one mud: 44.56%
 
 POKEMON: HOOTHOOT
 Flee rate: 90
-Odds to flee per turn: 35.55%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 73.99%
-Odds of success starting with one bait: 56.5%
-Odds of success starting with one mud: 44.71%
+Odds of success with balls only: 73.92%
+Odds of success starting with one bait: 56.35%
+Odds of success starting with one mud: 44.56%
 
 POKEMON: CARVANHA
 Flee rate: 90
-Odds to flee per turn: 35.55%
+Odds to flee per turn: 35.69%
 Catch rate: 225
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 73.99%
-Odds of success starting with one bait: 56.5%
-Odds of success starting with one mud: 44.71%
+Odds of success with balls only: 73.92%
+Odds of success starting with one bait: 56.35%
+Odds of success starting with one mud: 44.56%
 
 POKEMON: STARLY
 Flee rate: 90
-Odds to flee per turn: 35.55%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 73.99%
-Odds of success starting with one bait: 56.5%
-Odds of success starting with one mud: 44.71%
+Odds of success with balls only: 73.92%
+Odds of success starting with one bait: 56.35%
+Odds of success starting with one mud: 44.56%
 
 POKEMON: BIDOOF
 Flee rate: 90
-Odds to flee per turn: 35.55%
+Odds to flee per turn: 35.69%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 73.99%
-Odds of success starting with one bait: 56.5%
-Odds of success starting with one mud: 44.71%
+Odds of success with balls only: 73.92%
+Odds of success starting with one bait: 56.35%
+Odds of success starting with one mud: 44.56%
 
 POKEMON: PARAS
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 59.48%
-Odds of success starting with one bait: 37.4%
-Odds of success starting with one mud: 29.77%
+Odds of success with balls only: 59.38%
+Odds of success starting with one bait: 37.22%
+Odds of success starting with one mud: 29.62%
 
 POKEMON: EXEGGCUTE
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 90
 Odds of capture per ball: 19.75%
-Odds of success with balls only: 34.24%
-Odds of success starting with one bait: 19.21%
-Odds of success starting with one mud: 16.91%
+Odds of success with balls only: 34.15%
+Odds of success starting with one bait: 19.09%
+Odds of success starting with one mud: 16.81%
 
 POKEMON: YANMA
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 75
 Odds of capture per ball: 16.78%
-Odds of success with balls only: 29.9%
-Odds of success starting with one bait: 16.4%
-Odds of success starting with one mud: 15.05%
+Odds of success with balls only: 29.81%
+Odds of success starting with one bait: 16.3%
+Odds of success starting with one mud: 14.96%
 
 POKEMON: WOOPER
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.15%
-Odds of success starting with one bait: 44.41%
-Odds of success starting with one mud: 33.27%
+Odds of success with balls only: 68.07%
+Odds of success starting with one bait: 44.23%
+Odds of success starting with one mud: 33.1%
 
 POKEMON: SHROOMISH
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.15%
-Odds of success starting with one bait: 44.41%
-Odds of success starting with one mud: 33.27%
+Odds of success with balls only: 68.07%
+Odds of success starting with one bait: 44.23%
+Odds of success starting with one mud: 33.1%
 
 POKEMON: AZURILL
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 150
 Odds of capture per ball: 33.69%
-Odds of success with balls only: 51.81%
-Odds of success starting with one bait: 31.53%
-Odds of success starting with one mud: 24.02%
+Odds of success with balls only: 51.71%
+Odds of success starting with one bait: 31.37%
+Odds of success starting with one mud: 23.88%
 
 POKEMON: GULPIN
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 225
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.15%
-Odds of success starting with one bait: 44.41%
-Odds of success starting with one mud: 33.27%
+Odds of success with balls only: 68.07%
+Odds of success starting with one bait: 44.23%
+Odds of success starting with one mud: 33.1%
 
 POKEMON: BARBOACH
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 190
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 59.48%
-Odds of success starting with one bait: 37.4%
-Odds of success starting with one mud: 29.77%
+Odds of success with balls only: 59.38%
+Odds of success starting with one bait: 37.22%
+Odds of success starting with one mud: 29.62%
 
 POKEMON: KEKLEON
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 200
 Odds of capture per ball: 40.96%
-Odds of success with balls only: 59.48%
-Odds of success starting with one bait: 37.4%
-Odds of success starting with one mud: 29.77%
+Odds of success with balls only: 59.38%
+Odds of success starting with one bait: 37.22%
+Odds of success starting with one mud: 29.62%
 
 POKEMON: BUDEW
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 255
 Odds of capture per ball: 50.28%
-Odds of success with balls only: 68.15%
-Odds of success starting with one bait: 44.41%
-Odds of success starting with one mud: 33.27%
+Odds of success with balls only: 68.07%
+Odds of success starting with one bait: 44.23%
+Odds of success starting with one mud: 33.1%
 
 POKEMON: SKORUPI
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 120
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 45.1%
-Odds of success starting with one bait: 26.64%
-Odds of success starting with one mud: 21.38%
+Odds of success with balls only: 45.01%
+Odds of success starting with one bait: 26.5%
+Odds of success starting with one mud: 21.25%
 
 POKEMON: TOXICROAK
 Flee rate: 120
-Odds to flee per turn: 47.27%
+Odds to flee per turn: 47.45%
 Catch rate: 75
 Odds of capture per ball: 16.78%
-Odds of success with balls only: 29.9%
-Odds of success starting with one bait: 16.4%
-Odds of success starting with one mud: 15.05%
+Odds of success with balls only: 29.81%
+Odds of success starting with one bait: 16.3%
+Odds of success starting with one mud: 14.96%
 
 POKEMON: KANGASKHAN
 Flee rate: 150
-Odds to flee per turn: 58.98%
+Odds to flee per turn: 59.22%
 Catch rate: 45
 Odds of capture per ball: 9.27%
-Odds of success with balls only: 14.76%
-Odds of success starting with one bait: 6.79%
-Odds of success starting with one mud: 6.18%
+Odds of success with balls only: 14.71%
+Odds of success starting with one bait: 6.73%
+Odds of success starting with one mud: 6.12%
 
 POKEMON: CROAGUNK
 Flee rate: 150
-Odds to flee per turn: 58.98%
+Odds to flee per turn: 59.22%
 Catch rate: 140
 Odds of capture per ball: 27.97%
-Odds of success with balls only: 39.7%
-Odds of success starting with one bait: 22.3%
-Odds of success starting with one mud: 16.22%
+Odds of success with balls only: 39.61%
+Odds of success starting with one bait: 22.14%
+Odds of success starting with one mud: 16.09%
