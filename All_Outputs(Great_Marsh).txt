@@ -250,7 +250,7 @@ Odds of success with balls only: 59.38%
 Odds of success starting with one bait: 37.22%
 Odds of success starting with one mud: 29.62%
 
-POKEMON: KEKLEON
+POKEMON: KECLEON
 Flee rate: 120
 Odds to flee per turn: 47.45%
 Catch rate: 200
