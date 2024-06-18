@@ -195,7 +195,7 @@ Catch rate: 190
 Odds of capture per ball: 40.96%
 Odds of success with balls only: 59.38%
 
-POKEMON: KEKLEON
+POKEMON: KECLEON
 Flee rate: 120
 Odds to flee per turn: 47.45%
 Catch rate: 200
